@@ -1,5 +1,7 @@
 #Christian Burfeind, Isaac Fisher, Josh Eastland, Alan Loyoza
 
+#create a program that simulates a pokemon battle
+
 #Add libraries
 import random
 
